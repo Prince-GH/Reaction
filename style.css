@@ -1,14 +1,11 @@
-body{
-    background:linear-gradient(65deg, rgb(15, 66, 55),rgba(3, 65, 36, 0.781));
-}
+
 .card{
-    border: 15px solid rgba(10, 151, 92, 0.199);
-    background:linear-gradient(605deg,rgb(87, 228, 169),rgb(24, 233, 135));
+    border: 5px solid rgba(10, 151, 92, 0.199);
 }
-.card-body{
+/* .card-body{
     color:rgb(3, 83, 27);
     background:linear-gradient(65deg,rgb(87, 228, 169),rgb(24, 233, 135));
-}
+} */
 strong{
     color:rgb(15, 66, 55)
 }
